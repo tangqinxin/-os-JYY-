@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(test VERSION 0.1.0)
+project(cmake)
 
 include(CTest)
 enable_testing()
 
-add_executable(test hello_world.cpp)
+add_executable(cmake hello_world.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

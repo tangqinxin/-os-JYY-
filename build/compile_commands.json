@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/tommy/Desktop/nanjing_university-os-JYY-/build",
+  "command": "D:\\vscode\\mingw_bin_file\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\cmake.dir\\hello_world.cpp.obj -c C:\\Users\\tommy\\Desktop\\nanjing_university-os-JYY-\\hello_world.cpp",
+  "file": "C:/Users/tommy/Desktop/nanjing_university-os-JYY-/hello_world.cpp"
+}
+]
