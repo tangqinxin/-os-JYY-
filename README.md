@@ -1,2 +1,2 @@
-# -OS-selflearning-
+# -OS-self-learning-
 该文件夹用于记录自学南大os课
